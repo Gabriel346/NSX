@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/only_color.frag</file>
+        <file>shaders/position.vert</file>
+        <file>shaders/color.vert</file>
+        <file>shaders/vertex_color.frag</file>
+        <file>shaders/primitive_id.frag</file>
+        <file>shaders/primitive_id.vert</file>
+        <file>shaders/color_normal.vert</file>
+        <file>shaders/color_normal.frag</file>
+        <file>shaders/selection.vert</file>
+        <file>shaders/selection.frag</file>
+        <file>shaders/simple_texture.vert</file>
+        <file>shaders/simple_texture.frag</file>
+        <file>shaders/uv.vert</file>
+        <file>shaders/uv.frag</file>
+    </qresource>
+</RCC>
